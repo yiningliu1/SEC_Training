@@ -1,0 +1,2 @@
+20231115	15:17:10	010d0723-567f-494c-91a2-dc49dd47203c	Error: Not allowed by CORS
+20231116	13:39:09	b58c4b40-dfd7-4ed7-bd89-ccbc7ea0174d	Error: ENOENT: no such file or directory, stat 'C:\Users\lyini\Documents\Random Projects\GIT_Repositories\SEC_Training\NodeJS\Chapter8\routes\new-page.html'
