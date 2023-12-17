@@ -1,0 +1,4 @@
+20231115	15:17:10	010d0723-567f-494c-91a2-dc49dd47203c	Error: Not allowed by CORS
+20231116	13:39:09	b58c4b40-dfd7-4ed7-bd89-ccbc7ea0174d	Error: ENOENT: no such file or directory, stat 'C:\Users\lyini\Documents\Random Projects\GIT_Repositories\SEC_Training\NodeJS\Chapter8\routes\new-page.html'
+20231130	18:03:23	13e926d0-6fe4-4e79-9128-af06ff6a0673	TypeError: res.status(...).idjson is not a function
+20231130	18:05:12	25cc2798-145d-4f35-9b72-4c67525ba9c4	ReferenceError: sort is not defined
