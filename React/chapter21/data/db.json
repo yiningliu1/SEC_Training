@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Test Post",
+      "datetime": "January 14, 2024 9:18:36 PM",
+      "body": "Testing Post"
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "January 14, 2024 9:18:49 PM",
+      "body": "Hello World!"
+    },
+    {
+      "id": "3",
+      "title": "3rd Post",
+      "datetime": "January 15, 2024 5:30:17 PM",
+      "body": "Lorem ipsum... yay!"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "datetime": "January 15, 2024 5:30:27 PM",
+      "body": "Testing posts"
+    },
+    {
+      "id": "5",
+      "title": "Post Five",
+      "datetime": "January 15, 2024 5:52:42 PM",
+      "body": "Testing paragraphs again!"
+    }
+  ]
+}
